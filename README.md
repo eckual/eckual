@@ -1,6 +1,6 @@
 👋 Hello, I'm Baha Hadyaoui, a Unity C# developer seeking fresh opportunities and always eager to expand my skill set. 
-
 You can check out my linkedin at https://www.linkedin.com/in/baha-eddine-hadyaoui/
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
