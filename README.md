@@ -5,9 +5,8 @@ You can check out my linkedin at https://www.linkedin.com/in/baha-eddine-hadyaou
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eckual&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" 
-    
-    />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eckual&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
+   <br>
 </div>
 
 <div align="center">
