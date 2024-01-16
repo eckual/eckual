@@ -28,7 +28,3 @@ You can check out my linkedin at https://www.linkedin.com/in/baha-eddine-hadyaou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eckual)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-###
