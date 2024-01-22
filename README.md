@@ -1,5 +1,4 @@
-👋 Hello, I'm Baha Hadyaoui, a Unity C# developer seeking fresh opportunities and always eager to expand my skill set. 
-You can check out my linkedin at https://www.linkedin.com/in/baha-eddine-hadyaoui/
+👋 Hello, I'm Baha Hadyaoui, Game developer seeking fresh opportunities and always eager to expand my skill set. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eckual&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
