@@ -1,5 +1,5 @@
 
-👋 Hello, I'm Baha, also known as Eckual, an experienced game developer deeply passionate about creating immersive Unity-based experiences, including 2D/3D/AR games. With a keen eye for innovation, I specialize in crafting captivating puzzle, casual, multiplayer and educational games that engage players on multiple levels.
+👋 Hello, I'm Baha, also known as Eckual, an experienced game developer deeply passionate about creating immersive Unity-based experiences, including 2D/3D/AR games. With a keen eye for innovation, I specialize in crafting captivating puzzle, casual, multiplayer, AR/VR experiences and educational games that engage players on multiple levels.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eckual&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
