@@ -48,5 +48,5 @@ Let’s build something amazing together! 🚀🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />
-</div>cons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+
 </div>
