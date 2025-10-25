@@ -1,4 +1,4 @@
-👋 Hi, I'm Baha from Tunisia: an experienced software engineer and .NET/Unity/C# developer passionate about crafting immersive and innovative digital experiences.
+👋 Hi, I'm Baha from Tunisia: an experienced software engineer and .NET/Unity/C#/C++ developer passionate about crafting immersive and innovative digital experiences.
 
 I specialize in the Unity and .NET ecosystems, building everything from games to scalable web apps, backend services, and interactive platforms. My work spans sectors like healthcare, training, and entertainment, combining creativity with technical depth.
 
