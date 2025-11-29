@@ -4,8 +4,6 @@ I specialize in the Unity and .NET ecosystems, building everything from games to
 
 Let’s build something amazing together! 🚀🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eckual&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=7&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
