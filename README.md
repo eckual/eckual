@@ -26,18 +26,6 @@
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,dotnet" height="48"/>
 
-### 🥽 VR Tools
-<img src="https://skillicons.dev/icons?i=unity" height="48"/> <!-- XR Engine -->
-<img src="https://skillicons.dev/icons?i=blender" height="48"/> <!-- 3D Assets -->
-<img src="https://skillicons.dev/icons?i=oculus" height="48"/> <!-- Meta / Oculus SDK -->
-<img src="https://skillicons.dev/icons?i=vrchat" height="48"/> <!-- VRChat SDK / Avatar -->
-<img src="https://skillicons.dev/icons?i=valve" height="48"/> <!-- SteamVR / OpenVR -->
-<img src="https://skillicons.dev/icons?i=htc" height="48"/> <!-- HTC Vive -->
-<img src="https://skillicons.dev/icons?i=windows" height="48"/> <!-- Windows Mixed Reality -->
-<img src="https://skillicons.dev/icons?i=github" height="48"/> <!-- OpenXR / XR SDKs -->
-
-
-
 ### 🛠️ IDEs & Developer Tools
 <img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,postman,figma,slack,photoshop" height="48"/>
 
