@@ -20,17 +20,24 @@
 
 <div align="center">
 
-### 🎮 Game & XR
-<img src="https://skillicons.dev/icons?i=unity,unreal" height="45"/>
+### 🎮 Game Engines & XR
+<img src="https://skillicons.dev/icons?i=unity,unreal" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity" height="48"/> <!-- AR/VR -->
 
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=cs,js,dotnet" height="45"/>
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,dotnet" height="48"/>
 
-### 🥽 AR / VR
-<img src="https://skillicons.dev/icons?i=unity" height="45"/>
+### 🥽 XR / AR / VR Tools
+<img src="https://skillicons.dev/icons?i=unity" height="48"/> <!-- XR -->
+<img src="https://skillicons.dev/icons?i=blender" height="48"/> <!-- 3D assets -->
+<img src="https://skillicons.dev/icons?i=maya" height="48"/> <!-- 3D animation -->
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,docker,blender,figma" height="45"/>
+### 🛠️ IDEs & Developer Tools
+<img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,docker,postman,figma" height="48"/>
+
+### ☁️ Backend & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,azure" height="48"/>
 
 </div>
+
 
