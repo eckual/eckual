@@ -22,15 +22,15 @@
 
 ### 🎮 Game Engines & XR
 <img src="https://skillicons.dev/icons?i=unity,unreal" height="48"/>
-<img src="https://skillicons.dev/icons?i=unity" height="48"/> <!-- AR/VR -->
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,dotnet" height="48"/>
 
-### 🥽 XR / AR / VR Tools
-<img src="https://skillicons.dev/icons?i=unity" height="48"/> <!-- XR -->
-<img src="https://skillicons.dev/icons?i=blender" height="48"/> <!-- 3D assets -->
-<img src="https://skillicons.dev/icons?i=maya" height="48"/> <!-- 3D animation -->
+### 🥽 VR / XR Tools
+<img src="https://skillicons.dev/icons?i=unity" height="48"/> <!-- XR Engine -->
+<img src="https://skillicons.dev/icons?i=blender" height="48"/> <!-- 3D Assets -->
+<img src="https://skillicons.dev/icons?i=oculus" height="48"/> <!-- Meta / Oculus SDK -->
+
 
 ### 🛠️ IDEs & Developer Tools
 <img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,docker,postman,figma" height="48"/>
