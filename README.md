@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" height="48"/>
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cs,cpp,js" height="48"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,java" height="48"/>
 
 ### 🛠️ IDEs & Developer Tools
 <img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,postman,figma,photoshop" height="48"/>
