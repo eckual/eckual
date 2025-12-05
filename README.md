@@ -7,9 +7,9 @@
 ---
 
 ## 👨‍💻 About Me
-🎮 Unity Developer & Software Engineer from **Tunisia**  
-🎯 Specialized in **Unity (2D/3D), C#, JavaScript, Unreal Engine**  
-🥽 Focused on **AR/VR, gameplay systems, tools & performance optimization**  
+🎮 Unity Developer & Software Engineer 
+🎯 Specialized in **Unity (2D/3D,XR), C#, JavaScript, Unreal Engine**  
+🥽 Focused on **Web services, Games, AR/VR, tools & performance optimization**  
 📫 **Email:** baha.hadyaoui@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/baha-eddine-hadyaoui/  
 🌐 **Website:** https://eckual.github.io/  
@@ -34,25 +34,3 @@
 
 </div>
 
----
-
-## 🚀 What I Do Best
-- 🎮 Gameplay & Systems Programming  
-- 🧠 Clean Architecture & Scalable Code  
-- 📱 Mobile & PC Optimization  
-- 🥽 AR / VR Interaction & Simulation  
-- 🛠️ Editor Tools & Runtime Tools Development  
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-<a href="https://www.linkedin.com/in/baha-eddine-hadyaoui/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
-</div>
-
----
-
-⭐ **"Build clean systems. Ship great experiences."**
