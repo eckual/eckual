@@ -24,13 +24,13 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" height="48"/>
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,dotnet" height="48"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js" height="48"/>
 
 ### 🛠️ IDEs & Developer Tools
 <img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,postman,figma,slack,photoshop" height="48"/>
 
 ### ☁️ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,azure,docker," height="48"/>
+<img src="https://skillicons.dev/icons?i=firebase,azure,docker,dotnet" height="48"/>
 
 </div>
 
