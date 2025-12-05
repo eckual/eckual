@@ -11,6 +11,8 @@
 🎯 Specialized in **Unity (2D/3D), C#, JavaScript, Unreal Engine**  
 🥽 Focused on **AR/VR, gameplay systems, tools & performance optimization**  
 📫 **Email:** baha.hadyaoui@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/baha-eddine-hadyaoui/  
+🌐 **Website:** https://eckual.github.io/  
 
 ---
 
@@ -43,25 +45,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eckual&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eckual&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/baha-eddine-hadyaoui/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
-
 </div>
 
 ---
