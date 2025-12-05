@@ -9,9 +9,7 @@
 ## 🎮 About Me
 🕹️ Software Engineer & Unity Developer from **Tunisia**  
 🎯 Specialized in **Unity (2D/3D), .NET, C#, JavaScript**  
-🧠 Experience in **Games, Training Apps, Healthcare & Interactive Platforms**  
-🎨 3D & Game Asset Integration (Blender, Maya)  
-⚙️ Passionate about **Gameplay Systems, Optimization & Scalable Backends**  
+⚙️ Passionate about **Gameplay Systems, Optimization, Scalable Backends, UI integration and tools development**  
 📫 **Email:** baha.hadyaoui@gmail.com  
 🌐 **Portfolio:** https://eckual.github.io/  
 
