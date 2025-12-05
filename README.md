@@ -12,8 +12,9 @@
 🧠 Experience in **Games, Training Apps, Healthcare & Interactive Platforms**  
 🎨 3D & Game Asset Integration (Blender, Maya)  
 ⚙️ Passionate about **Gameplay Systems, Optimization & Scalable Backends**  
-📫 **Email:** baha.hadyaoui@gmail.com**
-🌐 **LinkedIn / Portfolio:** https://eckual.github.io/
+📫 **Email:** baha.hadyaoui@gmail.com  
+🌐 **Portfolio:** https://eckual.github.io/  
+
 
 ---
 
