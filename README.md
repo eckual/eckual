@@ -21,17 +21,21 @@
 <div align="center">
 
 ### 🎮 Game Engines & XR
-<img src="https://skillicons.dev/icons?i=unity,unreal" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender" height="48"/>
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,java" height="48"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,java,python" height="48"/>
 
 ### 🛠️ IDEs & Developer Tools
-<img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,postman,figma,photoshop" height="48"/>
+<img src="https://skillicons.dev/icons?i=visualstudio,rider,vscode,git,github,gitlab,postman,figma,photoshop" height="48"/>
 
-### ☁️ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,azure,docker,dotnet" height="48"/>
+### ☁️ Backend, DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,azure,docker,dotnet,nodejs,nginx,mysql,sqlite" height="48"/>
+
+### 🧠 Networking, Realtime & Tools
+<img src="https://skillicons.dev/icons?i=linux,bash,cmake" height="48"/>
 
 </div>
+
 
 
