@@ -21,7 +21,7 @@
 <div align="center">
 
 ### 🎮 Game Engines, 3D & XR
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,threejs" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender" height="48"/>
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,java" height="48"/>
@@ -35,8 +35,6 @@
 ### 🧠 Networking, Realtime & Tools
 <img src="https://skillicons.dev/icons?i=linux,bash,cmake" height="48"/>
 
-### 📊 Project Management, Team & Dev Workflow
-<img src="https://skillicons.dev/icons?i=slack,jira,trello" height="48"/>
 
 </div>
 
