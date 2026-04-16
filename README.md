@@ -7,8 +7,8 @@
 ---
 
 ## 👨‍💻 About Me
-🎮 Unity Developer & Software Engineer 
-🎯 Specialized in **Unity (2D/3D,XR), C#, C++, .NET and Javascript**  
+🎮 Software Engineer 
+🎯 Specialized in **Unity (2D/3D,XR), Java, C#, C++, .NET and Javascript**  
 🥽 Focused on **Web services, Games, AR/VR, tools & performance optimization**  
 📫 **Email:** baha.hadyaoui@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/baha-eddine-hadyaoui/  
